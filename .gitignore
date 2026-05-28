@@ -1,2 +1,7 @@
 *.jtl
+*.log
 results/
+bin/
+target/
+.idea/
+.vscode/
